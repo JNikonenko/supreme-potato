@@ -5,6 +5,6 @@
 
 int int main(int argc, char const *argv[])
 {
-	std::cout<<"Hello I'm supreme-potato project"<<std::cout
+	std::cout<<"Hello world, I'm supreme-potato project"<<std::cout
 	return 0;
 }
